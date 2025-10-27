@@ -1,6 +1,6 @@
 # Simple Clock
 
-Um aplicativo de despertador simples e personalizável para Android.
+Um aplicativo de despertador simples e personalizável para Android 8.0.
 
 ## Funcionalidades
 
